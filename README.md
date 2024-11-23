@@ -24,7 +24,7 @@ To run the Modern To-Do List application, ensure you have Python installed on yo
 1. *Clone the repository*:
 
    bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Gunjan05-2001/To_Do_List
    
 
 2. *Navigate to the project directory*:
@@ -59,7 +59,7 @@ To run the Modern To-Do List application, ensure you have Python installed on yo
 
 *App Interface*:
 
-https://github.com/Gunjan05-2001/To_Do_List/blob/main/to_do_list.JPG
+![image alt](https://github.com/Gunjan05-2001/To_Do_List/blob/main/to_do_list.JPG)
 
 ---
 
