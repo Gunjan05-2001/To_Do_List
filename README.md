@@ -62,24 +62,3 @@ To run the Modern To-Do List application, ensure you have Python installed on yo
 ![image alt](https://github.com/Gunjan05-2001/To_Do_List/blob/main/to_do_list.JPG)
 
 ---
-
-## Contributing
-
-Feel free to fork this repository and create pull requests for any enhancements or new features. Ensure your contributions align with the existing code style and that any necessary tests are included.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- Tkinter for building the graphical user interface.
-- Python for the simplicity and power it provides in application development.
-
----
-
-This README file provides a comprehensive guide to understanding, installing, and using your to-do list app. It also includes sections on contributing and licensing for future development.
